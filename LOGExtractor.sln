@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LOGExtractor", "LOGExtractor\LOGExtractor.csproj", "{0D163CAE-09F8-4734-86AC-B59B66BA2A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapViewer", "MapViewer\MapViewer.csproj", "{77666A32-E535-42A0-8E0A-576EB56C8403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D163CAE-09F8-4734-86AC-B59B66BA2A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D163CAE-09F8-4734-86AC-B59B66BA2A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D163CAE-09F8-4734-86AC-B59B66BA2A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D163CAE-09F8-4734-86AC-B59B66BA2A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77666A32-E535-42A0-8E0A-576EB56C8403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77666A32-E535-42A0-8E0A-576EB56C8403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77666A32-E535-42A0-8E0A-576EB56C8403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77666A32-E535-42A0-8E0A-576EB56C8403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8868650F-9B21-431C-9C0C-28CB7B682452}
+	EndGlobalSection
+EndGlobal
